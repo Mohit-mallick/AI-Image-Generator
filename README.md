@@ -1,5 +1,8 @@
 # 🧠 AI Image Generator (Text-to-Image + Animation) | GenAI Project
-![App Screenshot](https://ibb.co/krYFhbr)
+
+## 🖼️ Screenshot
+![App Screenshot](https://i.ibb.co/GsDnTKp/3044dbc1-b729-4438-b7dc-7bcfc6ec7d33.png)
+
 
 A Next.js frontend app that generates images from text prompts using **Gemini Flash API**, with optional animation via **Fal API** (paid).
 
