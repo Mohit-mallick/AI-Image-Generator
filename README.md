@@ -2,7 +2,7 @@
 
 ## 🖼️ Screenshot
 
-![App Screenshot](https://i.ibb.co/fKm7C6K/Screenshot-2025-07-22-223955.png)
+![App Screenshot](https://i.ibb.co/YBpSfwgH/Screenshot-2025-07-22-211238.png)
 
 
 A Next.js frontend app that generates images from text prompts using **Gemini Flash API**, with optional animation via **Fal API** (paid).
